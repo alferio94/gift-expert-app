@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifGridItem.jsx> should match with the snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Titulo del GIF"
+      src="https://media1.giphy.com/media/3o7btLwJW1QqQqQqZS/200w.gif"
+    />
+    <p>
+      Titulo del GIF
+    </p>
+  </div>
+</div>
+`;
